@@ -2,11 +2,17 @@
 
 O programa tem 7 classes:
 Animal-> Contém toda a informação relevante aos animais
+
 Cliente-> Contém toda a informação relevante aos clientes
+
 Serviço-> Contém toda a informação relevante aos serviços
+
 Duração-> Pequena classe para a duração dos serviços
+
 Professional-> Contém toda a informação relevante aos médicos
+
 Clinica-> Contém ArrayLists com todos os clientes, animais, serviços e médicos
+
 Consulta-> Interliga o Serviço, Animal, Cliente e Professional de modo a realizar a consulta
 
 Funcionamento:
