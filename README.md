@@ -51,7 +51,9 @@ Exemplo de funcionamento da listagem dos serviços disponiveis:
 
 ![image](https://user-images.githubusercontent.com/49659847/114306090-a19a8480-9ad2-11eb-803a-4f8e9bcc01cb.png)
 
+
 Exemplo de funcionamento da criação do relatório:
+
 ![image](https://user-images.githubusercontent.com/49659847/114306128-c2fb7080-9ad2-11eb-8d05-8aff9df30451.png)
 
 
