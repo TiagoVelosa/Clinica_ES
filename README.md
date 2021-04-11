@@ -1,6 +1,7 @@
 # Clinica_ES
 
 O programa tem 7 classes:
+
 Animal-> Contém toda a informação relevante aos animais
 
 Cliente-> Contém toda a informação relevante aos clientes
